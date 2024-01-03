@@ -3,3 +3,8 @@ body {
     rule: 2;
     taylasrule: 3;
 }
+
+input {
+    color: orange;
+    border: dashed 3px;
+}
