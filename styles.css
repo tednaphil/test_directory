@@ -4,6 +4,11 @@ body {
     taylasrule: 3;
 }
 
+section {
+    color: blue;
+    border: 2px solid;
+}
+
 input {
     color: orange;
     border: dashed 3px;
