@@ -8,3 +8,7 @@ section {
     color: blue;
     border: 2px solid;
 }
+
+:last-child {
+    flex-wrap: nowrap;
+}
