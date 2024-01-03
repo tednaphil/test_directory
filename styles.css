@@ -13,3 +13,7 @@ input {
     color: orange;
     border: dashed 3px;
 }
+
+:first-child {
+    height: auto;
+}
